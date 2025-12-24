@@ -43,10 +43,9 @@
 
 ## 📊 **Statistiques de développement**
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SendoukM&show_icons=true&theme=transparent" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendoukM&layout=compact&theme=transparent" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SendoukM&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendoukM&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </div>
-
 ---
 
 > *“Debug acharné, documentation rigoureuse et passion pour l'innovation technologique au service de la santé.”*
